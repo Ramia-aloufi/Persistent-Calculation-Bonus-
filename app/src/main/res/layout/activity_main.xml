@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Type here"
+            android:hint="Type A double num"
             android:inputType="textPersonName"
             android:textSize="20sp" />
 
@@ -33,7 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Type here"
+            android:hint="Type a Foat num"
             android:inputType="textPersonName"
             android:textSize="20sp" />
 
